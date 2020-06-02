@@ -18,10 +18,12 @@
 ## :computer:Sobre o desafio
 
 ### Objetivo:
+
 Fazer o clone da página:
-<a href="https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down" target="_blank" rel="noopener noreferrer">
-Clique aqui
-</a>
+
+<p align="center">
+  <img src="./assets/layout.png">
+</p>
 
 ### Conhecimento em:
 
@@ -29,7 +31,7 @@ HTML5 e CSS3
 
 ### Informações sobre o desafio:
 
-<a href="https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down" target="_blank" rel="noopener noreferrer">
+Clique para ver o <a href="https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down" target="_blank" rel="noopener noreferrer">
 Layout
 </a>
 
