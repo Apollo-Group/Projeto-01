@@ -29,7 +29,9 @@ HTML5 e CSS3
 
 ### Informações sobre o desafio:
 
-Acesse o link <a https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down">Layout no Figma</a>
+<a href="https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down" target="_blank" rel="noopener noreferrer">
+Layout
+</a>
 
 ## :tada: Entrega
 
