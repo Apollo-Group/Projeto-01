@@ -17,8 +17,8 @@
 
 ## :computer:Sobre o desafio
 
+### Objetivo:
 Fazer o clone da página:
-
 <a href="https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down" target="_blank" rel="noopener noreferrer">
 Clique aqui
 </a>
