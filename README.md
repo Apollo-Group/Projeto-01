@@ -37,6 +37,12 @@ Layout
 
 Copie a URL do repositório com o desafio e envie pela plataforma: http://platform.apollopartners.com.br
 
+## :question: Dúvidas
+
+Acesse o <a href="https://github.com/Apollo-Group/Projeto-FAQ">
+FAQ
+</a> ou abra uma issue nesse repositório que retornamos em breve.
+
 ## :clipboard: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
