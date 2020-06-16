@@ -31,9 +31,9 @@ HTML5 e CSS3
 
 ### Informações sobre o desafio:
 
-Clique para ver o <a href="https://www.figma.com/proto/B2WMzcZfiCaLjIGLcY4VpD/Figma-Basics?node-id=0%3A534&scaling=scale-down" target="_blank" rel="noopener noreferrer">
-Layout
-</a>
+Clique para ver o <a href="https://github.com/Apollo-Group/Projeto-01-Template" target="_blank" rel="noopener noreferrer">
+Template
+</a> do desafio com as imagens do layout.
 
 ## :tada: Entrega
 
