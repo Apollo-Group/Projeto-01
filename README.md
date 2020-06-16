@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://api.apollopartners.com.br/files/105" />
+<img alt="Header" src="/assets/header.jpeg" />
 <h3 align="center">
   Desafio 1: Website em HTML5 e CSS3
 </h3>
