@@ -37,7 +37,7 @@ Template
 
 ## :tada: Entrega
 
-Copie a URL do repositório com o desafio e envie pela plataforma: http://platform.apollopartners.com.br
+Copie a URL do repositório com o desafio e envie pela plataforma: https://platform.apollopartners.com.br/project/37
 
 ## :question: Dúvidas
 
